@@ -12,6 +12,8 @@
 body {
 	display: flex;
 	justify-content: center;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .cta-button {
@@ -27,10 +29,10 @@ body {
 	text-decoration: none;
 	border-radius: 5px;
 	font-family: 'NanumSquareNeo-Variable',"Pretendard", Arial, sans-serif;
-	font-size: 15px;
+	font-size: 13px;
 	width: 80%;
 	max-width: 600px;
-	font-weight: 900;
+	font-weight: 400;
 }
 
 .cta-button-box{
@@ -44,5 +46,5 @@ body {
 }
 
 img{
-    width: 90%;
+    width: 100%;
 }
